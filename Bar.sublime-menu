@@ -1,0 +1,14 @@
+[
+	{
+		"id" : "stmlogger",
+		"caption": "Add Task",
+		"children":
+		[
+		{
+			"caption" : "run",
+			"command" : "add_task",
+			"keys": ["ctrl+shift+t"]
+		}
+		]
+	}
+]

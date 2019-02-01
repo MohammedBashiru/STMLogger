@@ -1,0 +1,24 @@
+[
+	{
+		"caption": "Task Manager: Open Web Page",
+		"command": "open_web_page"
+	},
+	{
+		"caption": "Task Manager: Add Task",
+		"command": "add_task",
+		"keys": "[ctrl+shift+d]"
+	},
+	{
+		"caption": "Task Manager: Show Task List",
+		"command": "show_task_list"
+	},
+	{
+		"caption": "Task Manager: Clear Task List",
+		"command": "spliter_test"
+	},
+	{
+		"caption": "Task Manager: Test Script",
+		"command": "signature"
+	}
+
+]

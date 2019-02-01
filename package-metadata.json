@@ -1,0 +1,8 @@
+{
+	"sublime_text": "*", 
+	"platforms": ["*"], 
+	"version": "1.0.0", 
+	"description": "Sublime Text 2 & 3 plugin for Syncline I.T Workes To Log Task Daily.", 
+	"dependencies": [], 
+	"url": "https://syncline.it"
+}

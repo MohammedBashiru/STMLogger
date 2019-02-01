@@ -1,0 +1,11 @@
+[
+	{
+		"command": "add_task",
+		"keys": ["ctrl+shift+a"]
+	},
+	{
+		"keys": ["ctrl+shift+d"],
+		"command": "show_task_list"
+	},
+
+]

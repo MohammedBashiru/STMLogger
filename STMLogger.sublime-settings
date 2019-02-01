@@ -1,0 +1,15 @@
+{
+    // Your api key from https://wakatime.com/#apikey
+    // Set this in your User specific WakaTime.sublime-settings file.
+    "user_name": "",
+
+    // Debug mode. Set to true for verbose logging. Defaults to false.
+    "debug": false,
+
+    // Status bar message. Set to false to hide status bar message.
+    // Defaults to true.
+    "status_bar_message": true,
+
+    // Status bar message format.
+    "status_bar_message_fmt": "STMLogger {status} %I:%M %p",
+}
